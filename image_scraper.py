@@ -23,4 +23,4 @@ def get_images(url):
 	return image_links
 
 #a standard call looks like this
-#imgs = get_images('http://www.wookmark.com')
+#get_images('http://www.wookmark.com')
